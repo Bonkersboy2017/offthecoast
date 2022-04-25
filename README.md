@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Off The Coast
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod aims to reinvent beaches, and add new tropical areas for the players to explore. Essentially a spiritual successor of Tropicraft (it is for fabric minecraft.) We aim to do this by adding a range of tropical islands, new sand variants, adding more exploration to Coral Reefs, and adding brand new sea and land mobs.
