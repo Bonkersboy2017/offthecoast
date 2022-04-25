@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "offthecoast:block/white_sandstone_top",
+    "north": "offthecoast:block/white_sandstone",
+    "south": "offthecoast:block/white_sandstone",
+    "east": "offthecoast:block/white_sandstone",
+    "west": "offthecoast:block/white_sandstone",
+    "up": "offthecoast:block/white_sandstone_top",
+    "down": "offthecoast:block/white_sandstone_bottom"
+  }
+}
