@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# Off The Coast
 
-## Setup
+Off The Coast aims to reinvent beaches, and add new tropical areas for the players to explore. Essentially a spiritual successor of Tropicraft - for fabric minecraft. We aim to do this by adding a range of tropical islands, new sand variants, adding more exploration to Coral Reefs, and adding brand new sea and land mobs.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+We aim to make the world feel more tropical and adventourous, while improving on regularly mediocre aspects of the game. 
+From the creators of Dinocraft: Extinction.
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+---COMING SOON---
